@@ -1,4 +1,4 @@
-package com.juanitodev.loginui.ui.screen.registration
+package com.juanitodev.loginui.ui.screen.vigilante
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable

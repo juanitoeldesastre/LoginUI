@@ -1,4 +1,4 @@
-package com.juanitodev.loginui.ui.screen.login
+package com.juanitodev.loginui.ui.screen.estudiante
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable

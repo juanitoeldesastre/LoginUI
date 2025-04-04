@@ -5,8 +5,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.juanitodev.loginui.ui.screen.home.HomeScreen
-import com.juanitodev.loginui.ui.screen.login.LoginScreen
-import com.juanitodev.loginui.ui.screen.registration.RegistrationScreen
+import com.juanitodev.loginui.ui.screen.estudiante.LoginScreen
+import com.juanitodev.loginui.ui.screen.vigilante.RegistrationScreen
 import com.juanitodev.loginui.ui.screen.welcome.WelcomeScreen
 
 @Composable
