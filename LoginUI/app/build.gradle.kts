@@ -58,4 +58,15 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    implementation("io.ktor:ktor-client-core:2.3.7")
+    implementation("com.google.code.gson:gson:2.10.1")
+    // Choose the appropriate engine (e.g., for Android)
+    implementation("io.ktor:ktor-client-android:2.3.7")
+    implementation("io.ktor:ktor-client-cio:2.3.7")
+    // Optional: JSON serialization
+    implementation("io.ktor:ktor-client-content-negotiation:2.3.7")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.7")
+    implementation("com.auth0:java-jwt:4.4.0")
+
 }
